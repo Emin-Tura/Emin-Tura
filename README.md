@@ -2,6 +2,8 @@
 <h1 align="center">Merhabaa! 👋🏻  I'm Muhammed Emin</h1>
 </b>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Emin-Tura&label=Profile%20views&color=0e75b6&style=flat" alt="Emin-Tura" /> </p>
+
 
 - 🔭 I’m currently working on JavaScript projects also learning programs
 - 🌱 I’m currently learning JavaScript and Frameworks
