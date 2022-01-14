@@ -21,6 +21,7 @@
 <a href="https://medium.com/@tura858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tura858" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emin-Tura&layout=compact)](https://github.com/Emin-Tura/MoviesApp) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emin-Tura&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emin-Tura&layout=compact)](https://github.com/Emin-Tura) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emin-Tura&hide=contribs,prs)
 
 
