@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on JavaScript projects also learning programs
 - 🌱 I’m currently learning JavaScript and Frameworks
 - 🌱 I’m currently learning English
-- 💬 Ask me about **HTML5,CSS3,JavaScript🔥**
+- 💬 Ask me about **HTML5,CSS3,JavaScript,ReactNative🔥**
 - 📫 How to reach me [Twitter](https://twitter.com/Emin_Tura) from  and [Linkedin](https://www.linkedin.com/in/muhammed-emin-tura-06017315b/)
 
 
